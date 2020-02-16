@@ -1,2 +1,2 @@
-# next-typescript-project-template
-next-typescript-project-template
+# nextjs-typescript-project-template
+nextjs-typescript-project-template
